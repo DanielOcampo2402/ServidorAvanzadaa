@@ -1,0 +1,23 @@
+{
+  "name": "servidoravanzada",
+  "version": "1.0.0",
+  "description": "Api rest productos naturales",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "API",
+    "REST"
+  ],
+  "author": "Daniel Ocampo A",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  }
+}
